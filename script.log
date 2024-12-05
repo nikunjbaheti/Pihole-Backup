@@ -1,0 +1,12 @@
+2024-12-05 21:43:34 - Deleted: /home/nikunj/script.log
+2024-12-05 21:43:34 - Running Pi-hole command...
+2024-12-05 21:43:35 - Pi-hole command completed successfully.
+2024-12-05 21:43:35 - Waiting for 30 seconds...
+2024-12-05 21:44:05 - Deleting existing .tar.gz files from GitHub repository...
+2024-12-05 21:44:05 - Fetching files from GitHub repository.
+2024-12-05 21:44:07 - Found pi-hole-raspberrypi-teleporter_2024-12-05_21-37-08.tar.gz in repository. Attempting to delete.
+2024-12-05 21:44:09 - Deleted pi-hole-raspberrypi-teleporter_2024-12-05_21-37-08.tar.gz from GitHub repository.
+2024-12-05 21:44:09 - Searching for .tar.gz and .log files to upload.
+2024-12-05 21:44:09 - Uploading /home/nikunj/pi-hole-raspberrypi-teleporter_2024-12-05_21-43-34.tar.gz to GitHub.
+2024-12-05 21:44:11 - Uploaded pi-hole-raspberrypi-teleporter_2024-12-05_21-43-34.tar.gz to GitHub.
+2024-12-05 21:44:11 - Uploading /home/nikunj/script.log to GitHub.
